@@ -98,7 +98,7 @@ body{
 
 .hero{
 	background: url(images/hero-background2.png);
-	background-position: center;
+/* 	background-position: center; */
 	border-bottom: 2px solid #EABD7B;
 	position: relative;
 }
